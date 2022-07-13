@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">Html is a programming language</string>
+    <string name="question2">In a deck of cards, the king has a mustache</string>
+    <string name="question3">An octopus has three hearts</string>
+    <string name="question4">Hot and cold water sound the same when poured</string>
+    <string name="question5">The Great Wall of China is longer than the distance between London and Beijing</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="back_button">Back</string>
+
+    <string name="correct_toast">Great! That is correct!</string>
+    <string name="incorrect_toast">Incorrect, try again...</string>
+</resources>
